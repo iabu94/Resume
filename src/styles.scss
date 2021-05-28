@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+::selection {
+  text-shadow: none;
+  color: #fff;
+  background-color: #ff5a0a;
+}
